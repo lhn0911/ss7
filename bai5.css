@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+#user-info {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+h2 {
+    color: #333;
+}
+.user-address p {
+    margin: 20px 0;
+    color: #666;
+}
+
+.user-details p {
+    width: 100%;
+    margin: 20px 0;
+    color: #666;
+}
+
+.user-details strong {
+    min-width: 100px;
+}
+
+.user-address p {
+    width: 100%;
+}

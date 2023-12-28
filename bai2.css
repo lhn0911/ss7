@@ -1,0 +1,9 @@
+.square{
+    background-color: rgba(33, 31, 31, 0.237);
+    height: auto;
+    width: 200px;
+    padding: 10px;
+}
+img{
+    border-radius:5%;
+}
